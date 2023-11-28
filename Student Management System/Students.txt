@@ -1,0 +1,6 @@
+22199045,Njabulo,23,HR,Accounting
+22109938,Lucky,20,IT,CNET
+22109913,Mdlanyoka,22,Development Software,Technical Programming
+22234233,Lefa,20,Electrical Engineering,Mathematics
+22215678,Sbonga,20,Nature Conservation,Animal Studies
+11111111,szxdcgbjk,22,23,df
